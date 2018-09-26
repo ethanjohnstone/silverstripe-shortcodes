@@ -1,5 +1,5 @@
 {
-    "name": "ethanjohnstone/silverstripe-shortcodes",
+    "name": "studiobonito/silverstripe-shortcodes",
     "description": "Adds shortcodes for inserting YouTube and Vimeo videos.",
     "type": "silverstripe-module",
     "keywords": [
@@ -28,6 +28,12 @@
             "name": "Ethan Johnstone",
             "email": "ethanjohnstone0911@gmail.com",
             "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/studiobonito/silverstripe-shortcodes"
         }
     ],
     "require": {
